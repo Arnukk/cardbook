@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cardbook</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_intro">Cardbook</string>
+    <string name="title_section1">Welcome</string>
+    <string name="title_section2">About</string>
+    <string name="title_section3">Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="PrivateKeys">com.example.cardbook.MagicKeys</string>
+    <string name="Lorem"> Aliquam mollis in massa non dictum. Fusce eu metus iaculis,
+    rhoncus massa nec, pharetra neque. Nam feugiat justo ac ipsum tempus porttitor.
+    Integer et tincidunt tellus. Etiam dapibus lorem nec risus accumsan ornare.
+    Nulla ut erat vitae nunc tincidunt tempor. Proin eu rutrum sapien, ut pulvinar massa.</string>
+    <string name="Welcome">Welcome to hassle free CardBook network. Where exchanging personal information never has been easier. With the help of this application you can exchange your contact details with anyone you wish. Tired of privacy violations? Then CardBook is developed exactly for you enjoy your completely anonymous network.</string>
+    <string name="Info">In order to use the CardBook application you should allow it to access the GPS coordinates and Internet for accurately exchanging contacts between you and other members of the network. Please note that because of confidentiality and anonymity concerns your data is encrypted with your PrivateKey and PublicKey which are stored locally on the phone. Application uses the AES-128 bit block cipher encryption. Breaking such encryption by brute force with most powerful super computer requires more than billion years.</string>
+    <string name="VERSION">
+
+    </string>
+</resources>
