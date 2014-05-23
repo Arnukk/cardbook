@@ -83,7 +83,7 @@ public class Intro extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         this.activity = this;
-        this.URL = "http://ec2-54-221-23-251.compute-1.amazonaws.com/register/";
+        this.URL = "http://ec2-54-205-57-222.compute-1.amazonaws.com/register/";
         super.onCreate(savedInstanceState);
         Intro.context = getApplicationContext();
         Intro.connectivity = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);

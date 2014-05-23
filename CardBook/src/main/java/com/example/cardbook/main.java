@@ -95,7 +95,7 @@ public class main extends Activity {
         this.activity = this;
         main.context = getApplicationContext();
         main.connectivity = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
-        main.URL = "http://ec2-54-221-23-251.compute-1.amazonaws.com/";
+        main.URL = "http://ec2-54-205-57-222.compute-1.amazonaws.com/";
         setContentView(R.layout.main);
         //Checking whether the application is running the first time
         findViewById(R.id.dummy_button).setOnClickListener(new View.OnClickListener() {
