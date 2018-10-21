@@ -1,5 +1,5 @@
 <h2>A trustless contact authentication and exchange platform</h2> 
-[Current version]: Beta 0.1
+[Current version]: Beta v0.1
 <br>
 <p align="center">
   <a href="http://www.youtube.com/watch?v=0PCy7ZdYCAM"><img src="http://img.youtube.com/vi/0PCy7ZdYCAM/0.jpg" alt="CardBook"/></a>
@@ -25,6 +25,14 @@ Just download the files, import into your Android studio and build. Please conta
 <h1>Usage</h1>
 Currently, you won't be able to use the CardBook application as our servers are down :( We are looking forward to bringing them back up and running !
 
-<h1>Feedback</h1>
+<h1>Contributing</h1>
 
 Contributors are more than welcome !
+
+<h1>License</h1>
+MIT
+
+<h1>Authors</h1>
+Areg Karapetyan
+Waheeb Yaqub
+Bob Liu
