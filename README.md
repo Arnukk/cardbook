@@ -1,5 +1,6 @@
-<h2>A trustless contact authentication and delivery platform</h2>
-
+<h2>A trustless contact authentication and exchange platform</h2> 
+[Current version]: Beta 0.1
+<br>
 <p align="center">
   <a href="http://www.youtube.com/watch?v=0PCy7ZdYCAM"><img src="http://img.youtube.com/vi/0PCy7ZdYCAM/0.jpg" alt="CardBook"/></a>
 </p>
