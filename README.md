@@ -33,6 +33,8 @@ Contributors are more than welcome !
 MIT
 
 <h1>Authors</h1>
-Areg Karapetyan
-Waheeb Yaqub
-Bob Liu
+<ul>
+<li>Areg Karapetyan</li>
+  <li>Waheeb Yaqub</li>
+<li>Bob Liu</li>
+</ul>
