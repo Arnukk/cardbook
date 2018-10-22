@@ -1,6 +1,6 @@
-<h2>A trustless contact authentication and exchange platform</h2> 
-[Current version]: Beta v0.1
-<br>
+<h2>A trustless contact authentication and exchange platform</h2>
+<p align="right">[Current version]: Beta v0.1</p>
+<br><br>
 <p align="center">
   <a href="http://www.youtube.com/watch?v=0PCy7ZdYCAM"><img src="http://img.youtube.com/vi/0PCy7ZdYCAM/0.jpg" alt="CardBook"/></a>
 </p>
@@ -25,9 +25,12 @@ Just download the files, import into your Android studio and build. Please conta
 <h1>Usage</h1>
 Currently, you won't be able to use the CardBook application as our servers are down :( We are looking forward to bringing them back up and running !
 
-<h1>Contributing</h1>
+<h1>Development and Contributions</h1>
 
-Contributors are more than welcome !
+CardBook is a collaborative project. The future releases of this application will be dedicated to creating more advanced GUI features and expanding the functionalities.
+
+Contributors are more than welcome ! Although, if you plan to put a non-trivial amount of work into coding new features, it is recommended that you first contact me.
+
 
 <h1>License</h1>
 MIT
